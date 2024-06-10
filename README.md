@@ -6,3 +6,8 @@ clone
 add
 commit
 Saves
+
+## Somewhat
+hello
+goodbye
+good evening
